@@ -1,4 +1,4 @@
-# OOPWITHPHP
+# Objects and Classes Using Javascript
 
  # Work on the following program: (make use of objects and classes)
  a. Write a program with a class called Employee. This class should extend the 
